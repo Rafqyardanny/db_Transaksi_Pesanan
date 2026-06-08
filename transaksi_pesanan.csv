@@ -1,0 +1,9 @@
+﻿id_transaksi,tanggal_transaksi,nama_barang,jumlah_beli,total_belanja,status_pengiriman
+TRX-001,2026-05-01,Air Mineral Galon,2,40000,Selesai
+TRX-002,02/05/2026,Gas LPG 3kg,1,20000,Dikirim
+TRX-003,,Air Mineral Galon,3,60000,Selesai
+TRX-004,2026-05-03,Gas LPG 12kg,,220000,Selesai
+TRX-005,2026-05-04,,1,20000,Batal
+TRX-006,2026-05-05,Air mineral galon,5,100000,selesai
+TRX-007,2026-05-06,Gas LPG 3kg,2,-40000,Dikirim
+TRX-008,07-05-2026,Gas LPG 12kg,1,220000,dikrim
